@@ -1,4 +1,4 @@
 20212969 -  kimminwoo
 
 
-kookmin univ. SW
+kookmin univ.cs 
