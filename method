@@ -2,4 +2,7 @@ first git add "file"
 second git commit -m "~~~~"
 third git push
 
-+git log --oneline  ===log check 
++git log --oneline  ===log check
+
++git commit -a ==  git add + git commit
+ 
